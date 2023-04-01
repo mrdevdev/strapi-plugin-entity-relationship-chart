@@ -9,7 +9,7 @@
     "kind": "plugin"
   },
   "dependencies": {
-    "@strapi/helper-plugin": "4.0.2",
+    "@strapi/helper-plugin": "4.9.0",
     "dagre": "^0.8.5",
     "lodash": "^4.17.21"
   },
